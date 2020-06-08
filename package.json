@@ -1,0 +1,22 @@
+{
+  "name": "son_pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogas123/songoku.github.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gogas123/songoku.github.com/issues"
+  },
+  "homepage": "https://github.com/gogas123/songoku.github.com#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
