@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gogas123/songoku.github.com#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
